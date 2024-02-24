@@ -1,0 +1,18 @@
+[
+    {
+      "categoryName": "Comics",
+      "image": "https://i.postimg.cc/kgqnTGmw/comics.jpg"
+    },
+    {
+      "categoryName": "Novel",
+      "image": "https://i.postimg.cc/MZfKTg50/novels.jpg"
+    },
+    {
+      "categoryName": "Story",
+      "image": "https://i.postimg.cc/kXrMtwY0/story.jpg"
+    },
+    {
+      "categoryName": "Study",
+      "image": "https://i.postimg.cc/BQxS5DdX/study.jpg"
+    }
+  ]

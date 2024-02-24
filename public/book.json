@@ -1,0 +1,183 @@
+[
+  {
+    "image": "https://i.postimg.cc/v8qHt5dh/A-Canticle-for-Lebowtiz.jpg",
+    "name": "The Art of Programming",
+    "quantity": 15,
+    "authorName": "John Coder",
+    "category": "Study",
+    "description": "A comprehensive guide to mastering the art of programming.",
+    "rating": 4.8
+  },
+  {
+    "image": "https://i.postimg.cc/v8qHt5dh/A-Canticle-for-Lebowtiz.jpg",
+    "name": "James nad Potter",
+    "quantity": 20,
+    "authorName": "Alice Analyst",
+    "category": "Comics",
+    "description": "Explore the fundamental concepts and tools of data science.",
+    "rating": 4.5
+  },
+  {
+    "image": "https://i.postimg.cc/QCwDGk8r/Charles-Dikens.png",
+    "name": "The Mystery of the Cosmos",
+    "quantity": 12,
+    "authorName": "Stella Astronomer",
+    "category": "Novel",
+    "description": "Journey through the wonders and mysteries of the cosmos.",
+    "rating": 4.2
+  },
+  {
+    "image": "https://i.postimg.cc/LXyRvFG5/Dragonfly-in-Amber.png",
+    "name": "Historical Chronicles",
+    "quantity": 18,
+    "authorName": "Eleanor Historian",
+    "category": "Story",
+    "description": "Uncover the tales of the past and the events that shaped our world.",
+    "rating": 4.7
+  },
+  {
+    "image": "https://i.postimg.cc/1RjsqPpY/Gilead.jpg",
+    "name": "Mindfulness Meditation",
+    "quantity": 25,
+    "authorName": "Zen Master",
+    "category": "Story",
+    "description": "Learn the art of mindfulness and find peace in the present moment.",
+    "rating": 4.9
+  },
+  {
+    "image": "https://i.postimg.cc/JndVZcBB/in-Science.png",
+    "name": "The Fictional Realm",
+    "quantity": 14,
+    "authorName": "Olivia Novelist",
+    "category": "Novel",
+    "description": "Immerse yourself in captivating fictional worlds and stories.",
+    "rating": 4.4
+  },
+  {
+    "image": "https://i.postimg.cc/wTRH5P2x/Interpreter-Of-Maladis.jpg",
+    "name": "Poetry Collection",
+    "quantity": 10,
+    "authorName": "Poet Laureate",
+    "category": "Comics",
+    "description": "A collection of soul-stirring poems that touch the heart.",
+    "rating": 4.6
+  },
+  {
+    "image": "https://i.postimg.cc/Zq4SSqS0/Kavalier-and-CLay.jpg",
+    "name": "Business Mastery",
+    "quantity": 22,
+    "authorName": "Entrepreneur Expert",
+    "category": "Study",
+    "description": "Strategies and insights for achieving success in the business world.",
+    "rating": 4.3
+  },
+  {
+    "image": "https://i.postimg.cc/0Q5PpyWh/Library.png",
+    "name": "Health and Wellness Guide",
+    "quantity": 17,
+    "authorName": "Wellness Guru",
+    "category": "Comics",
+    "description": "Achieve a healthy and balanced lifestyle with practical tips and advice.",
+    "rating": 4.0
+  },
+  {
+    "image": "https://i.postimg.cc/t40bB5v3/My-Own-Heart.png",
+    "name": "The Nature Explorer",
+    "quantity": 19,
+    "authorName": "Natalie Naturalist",
+    "category": "Comics",
+    "description": "Discover the beauty and wonders of the natural world.",
+    "rating": 4.8
+  },
+  {
+    "image": "https://i.postimg.cc/QCHDynrb/Outlander.png",
+    "name": "The Nature Explorer",
+    "quantity": 19,
+    "authorName": "Natalie Naturalist",
+    "category": "Comics",
+    "description": "Discover the beauty and wonders of the natural world.",
+    "rating": 4.8
+  },
+  {
+    "image": "https://i.postimg.cc/Dz6KyKv6/Starter-Set.png",
+    "name": "Business Mastery",
+    "quantity": 22,
+    "authorName": "Entrepreneur Expert",
+    "category": "Study",
+    "description": "Strategies and insights for achieving success in the business world.",
+    "rating": 4.3
+  },
+  {
+    "image": "https://i.postimg.cc/QtMZFnV3/The-Banglow-Mystery.png",
+    "name": "The Fictional Realm",
+    "quantity": 14,
+    "authorName": "Olivia Novelist",
+    "category": "Novel",
+    "description": "Immerse yourself in captivating fictional worlds and stories.",
+    "rating": 4.4
+  },
+
+  {
+    "image": "https://i.postimg.cc/mkzxwzQp/The-Corrections.jpg",
+    "name": "The Fictional Realm",
+    "quantity": 17,
+    "authorName": "Olivia Novelist",
+    "category": "Study",
+    "description": "Immerse yourself in captivating fictional worlds and stories.",
+    "rating": 4.4
+  },
+  {
+    "image": "https://i.postimg.cc/vTpJSYhY/The-Last-Boyfriend.png",
+    "name": "The Fictional Realm",
+    "quantity": 14,
+    "authorName": "Olivia Novelist",
+    "category": "Comics",
+    "description": "Immerse yourself in captivating fictional worlds and stories.",
+    "rating": 4.4
+  },
+  {
+    "image": "https://i.postimg.cc/pLQwqtFv/The-Last-Boyfriend-2.png",
+    "name": "Business Mastery",
+    "quantity": 22,
+    "authorName": "Entrepreneur Expert",
+    "category": "Story",
+    "description": "Strategies and insights for achieving success in the business world.",
+    "rating": 4.3
+  },
+  {
+    "image": "https://i.postimg.cc/SQ3bKdhB/The-Road.jpg",
+    "name": "The Book of Elie",
+    "quantity": 29,
+    "authorName": "Entrepreneur Expert",
+    "category": "Novel",
+    "description": "Strategies and insights for achieving success in the business world.",
+    "rating": 4.3
+  },
+  {
+    "image": "https://i.postimg.cc/X75SB5Np/Tree-Of-Smoke.jpg",
+    "name": "The Fictional State",
+    "quantity": 14,
+    "authorName": "Olivia Novelist",
+    "category": "Novel",
+    "description": "Immerse yourself in captivating fictional worlds and stories.",
+    "rating": 4.4
+  },
+  {
+    "image": "https://i.postimg.cc/vTpJSYhY/The-Last-Boyfriend.png",
+    "name": "The Nature Explorer",
+    "quantity": 19,
+    "authorName": "Natalie Naturalist",
+    "category": "Story",
+    "description": "Discover the beauty and wonders of the natural world.",
+    "rating": 4.8
+  },
+  {
+    "image": "https://i.postimg.cc/v8qHt5dh/A-Canticle-for-Lebowtiz.jpg",
+    "name": "The Nature Explorer",
+    "quantity": 19,
+    "authorName": "Natalie Naturalist",
+    "category": "Story",
+    "description": "Discover the beauty and wonders of the natural world.",
+    "rating": 4.8
+  }
+]
